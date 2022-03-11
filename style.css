@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+h1 {
+  color: #4e546c;
+}
+
+h2 {
+  color: #4e546c;
+}
+
+body {
+  font-family: 'Lora', serif;
+  background-color: #4e546c;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+div {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 24px;
+  width: 70%;
+  margin: 16px auto;
+  border-radius: 6px;
+  box-shadow: 1px 1px 5px 2px #000000b5;
+}
+
+#avatar {
+  width: 125px;
+  height: 125px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+/*commentaire*/
+a {
+  text-decoration: none;
+}
+
+.btn-blue {
+  color: white;
+  background-color: #4e546c;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: bolder;
+  border: 1px lightgrey;
+  transition:  1s;
+  display: block;
+  margin: 20px auto;
+  width: 200px;
+}
+
+.btn-blue:hover {
+  background-color: #b99a01;
+  color: white;
+  transition: 1s;
+}
+
+.list-inline {
+  padding: 0;
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline;
+  margin: 0 16px;
+  font-size: 40px;
+}
+
+.list li {
+  display: block;
+  margin: 0 16px;
+  font-size: 20px;
+  color: #4e546c;
+  margin: 0 auto;
+}
+
+.fa-brands {
+  color:  rgba(0, 0, 0, 0.4);
+}
+
+.fa-brands:hover {
+  color:  #b99a01;
+}
+
+.flex-fill list-group list-group-horizontal
+.flex-fill list-group list-group-horizontal-sm
+.flex-fill list-group list-group-horizontal-md
+
+#palmares {
+ margin: 0 auto;
+}
